@@ -60,6 +60,6 @@ License ( For Re - Use )
 
 ----------------------------------------------------------------------------------------------------
 
-    Thankyou for Scrolling this long 🍻
+   <h4 align="center"> Thankyou for Scrolling this long 🍻</h4>
 
   
